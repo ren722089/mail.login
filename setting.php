@@ -5,10 +5,10 @@
 define('MAIL_HOST','smtp.gmail.com');
 
 // メールユーザー名・アカウント名・メールアドレスを@込でフル記述
-define('MAIL_USERNAME','test.ex7280@gmail.com');
+define('MAIL_USERNAME','gmail名');
 
 // メールパスワード・上で記述したメールアドレスに即したパスワード
-define('MAIL_PASSWORD','Renmatsunobu1');
+define('MAIL_PASSWORD','パスワード');
 
 // SMTPプロトコル(sslまたはtls)
 define('MAIL_ENCRPT','ssl');
