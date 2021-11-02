@@ -1,5 +1,5 @@
 <?php
-define('DSN', 'mysql:host=localhost;dbname=tb230565db');
-define('DB_USER', 'tb-230565');
-define('DB_PASS', 'beSDhmFVAV');
+define('DSN', 'mysql:host=localhost;dbname=データベース名を入力');
+define('DB_USER', 'ユーザー名');
+define('DB_PASS', 'パスワード');
 ?>
