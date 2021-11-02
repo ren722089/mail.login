@@ -17,10 +17,10 @@ define('MAIL_ENCRPT','ssl');
 define('SMTP_PORT', 465);
 
 // メールアドレス・ここではメールユーザー名と同じでOK
-define('MAIL_FROM','test.ex7280@gmail.com');
+define('MAIL_FROM','送り主');
 
 // 表示名
-define('MAIL_FROM_NAME','松延廉');
+define('MAIL_FROM_NAME','表示名');
 
 // メールタイトル
 define('MAIL_SUBJECT','お問い合わせいただきありがとうございます');
